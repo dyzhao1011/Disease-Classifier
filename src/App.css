@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  justify-content: space-evenly;
+}
+
+#words-extracted {
+  width: 150px;
+  height: 300px;
+  overflow: auto;
+  border: 2px solid lightgray;
+}
